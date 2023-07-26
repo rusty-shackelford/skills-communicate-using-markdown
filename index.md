@@ -9,3 +9,10 @@ I have edited this file to demonstrate the various headers available
 ```
 example of a code block
 ```
+- [ ] markdown
+- [ ] markdown
+- [ ] markdown
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
